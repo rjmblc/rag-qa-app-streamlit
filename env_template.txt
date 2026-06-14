@@ -1,0 +1,3 @@
+GROQ_API_KEY = place/your/groq/api/key
+OPENAI_API_KEY = place/your/openai/api/key
+GEMINI_API_KEY = place/your/gemini/api/key
